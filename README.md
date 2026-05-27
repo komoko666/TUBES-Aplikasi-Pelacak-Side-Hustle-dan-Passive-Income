@@ -11,7 +11,7 @@ Aplikasi pelacak side hustle dan passive income berbasis Go.
 - Statistik Income
 - Dashboard Sederhana
 
-/Teknologi
+/Bahasa
 - Golang
 
 /Cara Menjalankan
